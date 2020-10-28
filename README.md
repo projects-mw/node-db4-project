@@ -55,3 +55,10 @@ Build the following endpoints. Write any additional data access helpers as neede
 Follow these steps for completing your project.
 
 - [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[jason 18](https://youtu.be/DNCEdN3P2Rg)
+[jason 16](https://youtu.be/Dah-9AEQ1Os)
+[luis 31](https://youtu.be/ewKoVoYPvRA)
+[jason 8](https://youtu.be/sSqQDLM_ZnQ)
